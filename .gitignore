@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/
+.ipynb_checkpoints/
+read_log.py
+test_app.py
